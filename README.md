@@ -101,17 +101,6 @@ Example:
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).
-
----
-
-## 🙋‍♂️ Author
-
-Developed by [@nathnaelg](https://github.com/nathnaelg)
-
----
 
 ## 🌟 Star This Repo
 
